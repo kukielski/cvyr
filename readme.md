@@ -27,3 +27,6 @@ Commands:
   queue-search [options]    search the queue and cache for any value
   help [command]            display help for command
 ```
+
+## TODO
+[] sync with Paycom
